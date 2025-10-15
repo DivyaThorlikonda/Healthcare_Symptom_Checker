@@ -1,4 +1,4 @@
-🩺 Healthcare Symptom Checker
+#🩺 Healthcare Symptom Checker#
 🎯 Objective
 This project is an educational healthcare assistant that takes user-entered symptoms as input and returns probable conditions and recommended next steps.
 ⚠️ Disclaimer: This tool is for educational purposes only and not a substitute for professional medical advice, diagnosis, or treatment.
