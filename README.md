@@ -56,9 +56,9 @@ Self-care and monitoring
 Difficulty swallowing, Severe headache, High fever (over 103°F), Shortness of breath, Severe fatigue lasting more than a week
 
 📄 Deliverables
-✅ GitHub Repository (this project)
-✅ README with setup & usage
-✅ Demo video (upload link here when ready)
+✅ GitHub Repository - https://github.com/DivyaThorlikonda/Healthcare_Symptom_Checker/tree/main
+✅ README with setup & usage - https://github.com/DivyaThorlikonda/Healthcare_Symptom_Checker/blob/main/README.md
+✅ Demo video - https://drive.google.com/file/d/12JUIV3FW_CBmMoO19VBm0aCN5W7omPQ9/view?usp=sharing
 
 🧩 Evaluation Focus
 Criterion	Description
